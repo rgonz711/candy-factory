@@ -1,5 +1,6 @@
 # candy-factory
  School project showcasing the use of pthreads and semaphores
+
 Raul Gonzalez with Jaylan Pierce
 
 
